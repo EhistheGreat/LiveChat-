@@ -22,10 +22,10 @@ In one terminal:
 ```bash
 run python3 chatserver.py n host machine 
 
-then aslo run the clientchat.py app on another machine 
-you can have 3 or more clients on the server ,and they would be able to communicate well each with indicated user name 
+run the clientchat.py app on another device or you can run it on another terminal
+and do again for the second client  ( now they can communicate )
+ 
+ 
 
-would be like a group chat
-
-this program can only be used locally , for devices connected to your where your chatserver.py runs(server host)
+works like for a one or one communication or a group communication
 
