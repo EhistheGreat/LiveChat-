@@ -23,9 +23,6 @@ In one terminal:
 run python3 chatserver.py n host machine 
 
 run the clientchat.py app on another device or you can run it on another terminal
-and do again for the second client  ( now they can communicate )
+run again for  second client 
  
- 
-
-works like for a one or one communication or a group communication
 
